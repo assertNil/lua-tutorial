@@ -1,4 +1,4 @@
-name = "Freya"
+name = "Nil"
 
 function sayHi(name)
   -- Print a greeting message to the console
